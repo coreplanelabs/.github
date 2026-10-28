@@ -1,4 +1,4 @@
-<a href="https://polylane.com"><img src="https://polylane.com/logo-mini.svg" alt="Polylane" width="56" height="56"></a>
+<a href="https://polylane.com"><img src="./assets/polylane-banner.png" alt="Polylane: Wake up to fixes, not issues." width="1280"></a>
 
 # Polylane
 
