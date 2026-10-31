@@ -1,4 +1,4 @@
-<a href="https://polylane.com"><img src="./assets/polylane-banner.png" alt="Polylane: Wake up to fixes, not issues." width="1280"></a>
+<a href="https://polylane.com"><img src="./assets/polylane-banner.png" alt="Polylane: Nobody should be on-call." width="1280"></a>
 
 # Polylane
 
